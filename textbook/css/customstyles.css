@@ -1,0 +1,59 @@
+#dark{
+    background-color: black;
+    color: white;
+}
+
+#center{
+    margin-top: 12%;
+}
+
+
+#card{
+    margin-top: 3%;
+    background-color: ghostwhite;
+    border: 2px solid;
+    border-color: dimgrey;
+    padding: 5px 5px 5px 5px;
+    box-shadow: 5px 5px 3px #888888;
+    
+}
+
+#card2{
+    margin-top: 3%;
+    background-color: ghostwhite;
+    border: 2px solid;
+    border-color: dimgrey;
+    padding: 5px 5px 5px 5px;
+    box-shadow: 5px 5px 3px #888888;
+    
+}
+
+#box{
+    border:2px solid;
+    border-color: lightblue;
+    
+}
+
+#friend{
+    border:1px solid;
+    border-color: lightgray;
+    padding: 2px 2px 2px 20px;
+    background-color: darkgrey;
+    color: white;
+}
+
+#me{
+    border:2px solid;
+    border-color: lightblue;
+    padding: 2px 2px 2px 20px;
+    background-color: skyblue;
+    color: white;
+}
+
+
+
+
+
+
+
+
